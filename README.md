@@ -16,4 +16,3 @@ This website explores the wonders of space, astronomy, and scientific discoverie
 
 ## 👨‍💻 Developed By  
 **Kamisetty Satya Satvik**  
-)  
