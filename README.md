@@ -1,17 +1,36 @@
-# Science and Space Exploration 🚀
+# 🚀 Science and Space Exploration  
 
-## 🌌 About This Project
-This website is dedicated to the wonders of science and space exploration. Learn about the latest discoveries, space missions, and the mysteries of the universe.
+## 🌌 About This Project  
+This website explores the wonders of space, astronomy, and scientific discoveries. It includes:  
+- 🏠 **Home Page** – Introduction to space exploration.  
+- 🛰 **Latest News** – Updates on space missions.  
+- 🌠 **About Space** – Learn about planets, stars, and galaxies.  
 
-## 📂 Features
-- 🏠 **Home Page**: Overview of space exploration.
-- 🛰️ **Latest News**: Updates on space missions.
-- 🌠 **About Space**: Educational content about astronomy.
+## 🔗 Website Link  
+[Click here to visit the site](# 🚀 Science and Space Exploration  
 
-## 🔧 Technologies Used
-- HTML
-- CSS
-- JavaScript
+## 🌌 About This Project  
+This website explores the wonders of space, astronomy, and scientific discoveries. It includes:  
+- 🏠 **Home Page** – Introduction to space exploration.  
+- 🛰 **Latest News** – Updates on space missions.  
+- 🌠 **About Space** – Learn about planets, stars, and galaxies.  
 
-## 👨‍💻 Developed By
-**Kamisetty Satya Satvik**
+## 🔗 Website Link  
+[Click here to visit the site](https://satyasatvik2005.github.io/science-space-website/)  
+
+## 💻 Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+## 👨‍💻 Developed By  
+**Kamisetty Satya Satvik**  
+)  
+
+## 💻 Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+## 👨‍💻 Developed By  
+**Kamisetty Satya Satvik**  
